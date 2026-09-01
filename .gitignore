@@ -1,0 +1,31 @@
+# secrets and environment
+.env
+.env.local
+.env.*.local
+web/.env.local
+engine/.env
+
+# node
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+.strata-storage/
+
+# foundry
+contracts/cache/
+contracts/out/
+broadcast/
+
+# os / editor
+.DS_Store
+Thumbs.db

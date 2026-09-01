@@ -1,0 +1,32 @@
+{
+  "name": "strata-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@ethereum-attestation-service/eas-sdk": "^2.7.0",
+    "@tanstack/react-query": "^5.59.0",
+    "@wagmi/connectors": "^6.2.0",
+    "motion": "^11.15.0",
+    "next": "14.2.21",
+    "preact": "^10.24.2",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "viem": "^2.21.0",
+    "wagmi": "^2.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.0",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.38",
+    "tailwindcss": "3.4.4",
+    "typescript": "5.5.4"
+  }
+}

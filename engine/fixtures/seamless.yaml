@@ -1,0 +1,11 @@
+# Seamless Protocol, the rewrite fixture. Documentation substantially rewritten
+# at the move off the Aave fork, the hardest classification case, it must come
+# back as a rewrite with claims extracted individually rather than as a fraud
+# signal.
+slug: seamless
+name: Seamless Protocol
+role: REWRITE
+why: Documentation substantially rewritten at the move off the Aave fork, the case the classifier must call a rewrite and not a fraud
+host: seamlessprotocol.finance
+docs_path: null
+subject: "0x1C7a8C3a90cE085f9202bB560261E3Eb4C07Ae31"

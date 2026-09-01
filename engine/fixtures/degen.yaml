@@ -1,0 +1,9 @@
+# Degen, the schedule fixture. Published emission and season plans that moved
+# over time, reconciled against what the chain shows was actually minted.
+slug: degen
+name: Degen
+role: SCHEDULE
+why: Published emission and season plans that moved over time, with the chain showing what was actually minted
+host: degen.xyz
+docs_path: null
+subject: "0x4ed4E862860beD51E9574b6D229D2661cC9b7b1f"
